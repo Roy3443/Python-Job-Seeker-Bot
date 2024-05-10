@@ -6,5 +6,5 @@
   <li>Automatically signs in to your LinkedIn account</li>
   <li>Searches for Python developer jobs in India</li>
   <li>Applies for jobs with easy apply functionality</li>
-  <li><Customizable with your LinkedIn account credentials and phone number</li>
+  <li>Customizable with your LinkedIn account credentials and phone number</li>
 </ul>
